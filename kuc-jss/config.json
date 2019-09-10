@@ -1,0 +1,19 @@
+{
+    "appID": 13,
+    "appName": "kuc-jss",
+    "type": "Customization",
+    "scope": "ALL",
+    "uploadConfig": {
+        "desktop": {
+            "js": [
+                "kuc-jss/dist/kuc-jss.min.js"
+            ],
+            "css": []
+        },
+        "mobile": {
+            "js": [
+                "kuc-jss/dist/kuc-jss.min.js"
+            ]
+        }
+    }
+}
